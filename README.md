@@ -7,4 +7,6 @@ bangbang covid 19 tracker updates daily information .
 use admin as the username and password to navigate to the admin dashboard.
 mobile should be verified.
 password validations should be verified
+for personal information havve to login that it asks mail id,password,include aadhar number .
+sensitive data as to be categorized stored in secured manner 
 
